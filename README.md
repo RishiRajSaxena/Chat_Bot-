@@ -1,4 +1,4 @@
 # Chat_Bot-
 personal project on C++
-# Bsaic terminal application
+# Basic terminal application
 # Console App
